@@ -132,6 +132,7 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ```
 
 ## OUTPUT:
+
 ### TRAINING LOSS, VALIDATION LOSS VS ITERATION PLOT:
 <img width="704" height="489" alt="image" src="https://github.com/user-attachments/assets/4997bfb3-14b1-4563-8d46-8ab175ed3503" />
 <img width="649" height="466" alt="image" src="https://github.com/user-attachments/assets/16c4bcf0-f7c6-413b-aad6-179fcf1f45d3" />
